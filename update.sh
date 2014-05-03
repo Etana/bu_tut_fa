@@ -43,4 +43,4 @@ done > ../list_dead.txt
 
 cd ..
 
-cat list_dead.txt | awk '{if($3 == save) print "\t[*]", $1; else {if(save!="")print "[/list]\n"; print $3, "\n[list]\n\t[*]" $1; } save=$3}END{print "[/list]"}' > list_dead_by_topic.txt
+cat list_dead.txt | awk '{print $3, $1}' | sort | awk '{if($1 == save) print "\t[*]"$2; else {if(save!="")print "[/list]\n"; print $1, "\n[list]\n\t[*]" $2; } save=$1}END{print "[/list]"}' > list_dead_by_topic.txt

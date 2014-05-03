@@ -107,9 +107,6 @@ http://sd-5.archive-host.com/membres/images/24071559914142709/tuto_mobile/sujet.
 http://sd-5.archive-host.com/membres/images/24071559914142709/tuto_mobile/text_comment.PNG :  http://forum.forumactif.com/t310483-personnaliser-l-apparence-en-version-mobile-de-votre-forum
 http://sd-5.archive-host.com/membres/images/24071559914142709/tuto_mobile/texte_princ.PNG :  http://forum.forumactif.com/t310483-personnaliser-l-apparence-en-version-mobile-de-votre-forum
 http://sd-5.archive-host.com/membres/images/24071559914142709/tuto_whos/whos.png :  http://forum.forumactif.com/t301569-statistiques-en-temps-reel
-http://url_de_l_icone.jpg :  http://forum.forumactif.com/t349222-phpbb2-creer-un-module-de-partage-personnalise
-http://url_image_annonce.jpg :  http://forum.forumactif.com/t348011-coloriser-les-cases-des-post-it-et-des-annonces
-http://url_image_post-it.jpg :  http://forum.forumactif.com/t348011-coloriser-les-cases-des-post-it-et-des-annonces
 http://www.enregistrersous.com/images/179060223120070808120127.png :  http://forum.forumactif.com/t220576-creer-une-feuille-de-personnage
 http://www.lezebre.fr/fa/alert.gif :  http://forum.forumactif.com/t168583-reconfigurer-un-nom-de-domaine-pour-diriger-vers-votre-forum
 http://www.lezebre.fr/fa/cname1.png :  http://forum.forumactif.com/t168583-reconfigurer-un-nom-de-domaine-pour-diriger-vers-votre-forum
@@ -118,5 +115,4 @@ http://www.lezebre.fr/fa/cname3.png :  http://forum.forumactif.com/t168583-recon
 http://www.lezebre.fr/fa/cname4.png :  http://forum.forumactif.com/t168583-reconfigurer-un-nom-de-domaine-pour-diriger-vers-votre-forum
 http://www.lezebre.fr/fa/cname5.png :  http://forum.forumactif.com/t168583-reconfigurer-un-nom-de-domaine-pour-diriger-vers-votre-forum
 http://www.lezebre.fr/fa/info.gif :  http://forum.forumactif.com/t175619-creez-votre-forum-fa-de-a-a-z
-http://www.monlienurl.com/monimage.jpg :  http://forum.forumactif.com/t301865-le-html-comment-ca-marche
 http://www.picdo.net/Fichiers/c91c3e1b4f5da6564681bc20555a3a6b/fg2.png :  http://forum.forumactif.com/t244298-bien-commencer-avec-son-forum
